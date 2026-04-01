@@ -1,7 +1,7 @@
 const settings = require('../../config/settings')
 
 function calculatePoints(result, currentStreak) {
-  const { winPoints, lossPoints, drawPoints, streakBonus, maxStreak } = settings.scoring
+  const { winPoints, lossPoints, drawPoints,                streakBonus, maxStreak } = settings.scoring
 
   let points = 0
   let newStreak = currentStreak
