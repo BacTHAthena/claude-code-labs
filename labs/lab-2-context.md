@@ -1,7 +1,6 @@
 # Lab 2: Context Engineering — Reduce Noise
 
 **Module:** 3 — Context Engineering
-**Duration:** 15 minutes
 **Prerequisites:** `claude-code-labs/` with CLAUDE.md from Lab 1
 
 ---
@@ -12,7 +11,7 @@ See how prompt precision affects Claude's ability to find bugs, and what happens
 
 ---
 
-## Part A: Vague vs Precise Prompts (7 min)
+## Part A: Vague vs Precise Prompts
 
 ### Step 1: Open the project
 
@@ -41,7 +40,7 @@ Watch: Claude goes straight to the file, finds the division-by-zero bug, and fix
 
 ---
 
-## Part B: What Survives /compact (8 min)
+## Part B: What Survives /compact
 
 ### Step 1: Ask Claude to investigate
 

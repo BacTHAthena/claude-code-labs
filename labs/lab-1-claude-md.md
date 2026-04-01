@@ -1,7 +1,6 @@
 # Lab 1: Write a CLAUDE.md
 
 **Module:** 2 — CLAUDE.md: Collaboration Contract
-**Duration:** 15 minutes
 **Prerequisites:** `claude-code-labs/` repo cloned locally
 
 ---
@@ -12,7 +11,7 @@ Write a CLAUDE.md from scratch, then watch Claude use it to find and fix a real 
 
 ---
 
-## Step 1: Reset and Initialize (3 min)
+## Step 1: Reset and Initialize
 
 Delete the existing CLAUDE.md and start fresh:
 
@@ -28,7 +27,7 @@ Read through the output. It's a starting point, not the final version.
 
 ---
 
-## Step 2: Edit to Match the Template (5 min)
+## Step 2: Edit to Match the Template
 
 Open `CLAUDE.md` and edit it to include these sections. Remove any fluff Claude added.
 
@@ -69,7 +68,7 @@ Open `CLAUDE.md` and edit it to include these sections. Remove any fluff Claude 
 
 ---
 
-## Step 3: Watch Claude Fix a Real Bug (7 min)
+## Step 3: Watch Claude Fix a Real Bug
 
 Open a **new** Claude Code session and ask:
 

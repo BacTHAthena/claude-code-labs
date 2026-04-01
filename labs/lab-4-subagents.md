@@ -1,7 +1,6 @@
 # Lab 4: Subagents — Full Bug Audit
 
 **Module:** 7 — Subagents
-**Duration:** 10 minutes
 **Prerequisites:** `claude-code-labs/` with CLAUDE.md
 
 ---
@@ -12,7 +11,7 @@ Use a subagent to audit the entire codebase for bugs, then fix one directly. See
 
 ---
 
-## Step 1: Subagent audit (5 min)
+## Step 1: Subagent audit
 
 Open Claude Code in `claude-code-labs/` and ask:
 
@@ -32,7 +31,7 @@ Watch:
 
 ---
 
-## Step 2: Fix directly from the report (3 min)
+## Step 2: Fix directly from the report
 
 Pick one bug from the audit report and ask Claude to fix it directly:
 
@@ -44,7 +43,7 @@ Notice: Claude fixes it immediately without re-reading files — the audit summa
 
 ---
 
-## Step 3: When to use which (2 min)
+## Step 3: When to use which
 
 You just saw both patterns:
 

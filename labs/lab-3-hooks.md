@@ -1,7 +1,6 @@
 # Lab 3: Hooks — Auto-format + Auto-test
 
 **Module:** 5 — Hooks: Deterministic Control
-**Duration:** 15 minutes
 **Prerequisites:** `claude-code-labs/` (has Prettier and tests configured)
 
 ---
@@ -12,7 +11,7 @@ Set up hooks that automatically format code and run tests after every edit. Watc
 
 ---
 
-## Step 1: Create the hook config (3 min)
+## Step 1: Create the hook config
 
 ```bash
 mkdir -p claude-code-labs/.claude
@@ -41,7 +40,7 @@ Create `claude-code-labs/.claude/settings.json`:
 
 ---
 
-## Step 2: Watch hooks in action on a real bug fix (8 min)
+## Step 2: Watch hooks in action on a real bug fix
 
 Open a **new** Claude Code session (hooks load at startup):
 
@@ -67,7 +66,7 @@ Watch closely:
 
 ---
 
-## Step 3: Verify the hook is working (4 min)
+## Step 3: Verify the hook is working
 
 Open the edited files and check:
 - Is the code formatted according to `.prettierrc`? (single quotes, no semicolons)
