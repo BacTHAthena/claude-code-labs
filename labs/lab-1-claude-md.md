@@ -11,13 +11,12 @@ Write a CLAUDE.md from scratch, then watch Claude use it to find and fix a real 
 
 ---
 
-## Step 1: Reset and Initialize
+## Step 1: Initialize
 
-Delete the existing CLAUDE.md and start fresh:
+Start fresh:
 
 ```bash
 cd claude-code-labs
-rm CLAUDE.md
 claude
 ```
 
